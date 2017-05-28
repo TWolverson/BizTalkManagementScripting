@@ -27,6 +27,7 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="Adapter.ps1" />
     <Compile Include="BizTalkManagementScripting.psd1" />
     <Compile Include="BizTalkManagementScripting.psm1" />
     <Compile Include="BizTalkManagementScripting.tests.ps1" />
